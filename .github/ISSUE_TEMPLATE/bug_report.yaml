@@ -1,5 +1,6 @@
 name: Bug Report
 description: Report a bug, crash, or other type of error in SRB2 Mod Profile Manager
+labels: ["bug"]
 body:
   - id: validation
     type: checkboxes
