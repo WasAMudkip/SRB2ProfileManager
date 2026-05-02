@@ -7,5 +7,8 @@
 
 </div>
 
-
 A simple mod profile manager for Sonic Robo Blast 2 in Python.
+
+# License
+
+This project is licensed under MIT.
