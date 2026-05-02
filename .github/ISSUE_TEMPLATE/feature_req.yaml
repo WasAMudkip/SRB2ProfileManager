@@ -1,0 +1,18 @@
+name: Feature Request
+description: Create a feature request for SRB2 Mod Profile Manager
+labels: ["feature request"]
+body:
+  - id: describe-req
+    type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Describe the feature
+      description: A description of what your feature request is about.
+  - id: issue-thing
+    type: textarea
+    validations:
+      required: false
+    attributes:
+      label: Issues
+      description: If your feature request has to do with any issues you have with SRB2MPM, describe them here.
