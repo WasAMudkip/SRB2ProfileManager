@@ -1,6 +1,6 @@
 name: Feature Request
 description: Create a feature request for SRB2 Mod Profile Manager
-labels: ["enhancment"]
+labels: ["enhancement"]
 body:
   - id: describe-req
     type: textarea
