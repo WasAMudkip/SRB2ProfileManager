@@ -5,11 +5,10 @@ labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
   - octocat
-type: bug
 body:
   - type: markdown
     attributes:
-      value: |
+      value: 
         Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
