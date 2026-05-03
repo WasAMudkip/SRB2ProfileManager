@@ -23,6 +23,15 @@
 
 A simple mod profile manager for Sonic Robo Blast 2 in Python.
 
+# Features
+
+- List all mod files (.soc, .lua, .wad and .pk3)
+  (W.I.P, will have more soon)
+
+# Usage
+
+WIP
+
 # License
 
 This project is licensed under MIT.
