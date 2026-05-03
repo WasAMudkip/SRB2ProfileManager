@@ -1,0 +1,11 @@
+Custom save:
+https://mb.srb2.org/addons/custom-gamedata-allows-you-to-create-save-files-with-addons.1969/
+
+XMomentum:
+https://mb.srb2.org/addons/v1-3-crossmomentum-a-complete-gameplay-overhaul.1371/
+
+InputViewer:
+https://mb.srb2.org/addons/input-viewer.2898/
+
+MusicTemplate:
+https://mb.srb2.org/threads/music-template.28096/
