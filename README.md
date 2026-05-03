@@ -21,6 +21,9 @@
 
 </div>
 
+> [!note]
+> This tool only works on Windows.
+
 A simple mod profile manager for Sonic Robo Blast 2 in Python.
 
 # Features
