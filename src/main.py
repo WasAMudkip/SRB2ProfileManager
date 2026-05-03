@@ -1,3 +1,5 @@
+import listmode
+
 print("""
 =========================
 =  NotAMudkip's         =
@@ -23,3 +25,8 @@ while True:
         break
 
 print(mode)
+
+if mode == 1:
+    listmode.list_files()
+elif mode == 2:
+    print("Mode 2 not yet implemented.")
