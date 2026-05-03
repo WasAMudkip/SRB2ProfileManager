@@ -13,5 +13,13 @@ Modes:
 2 - create shortcut from addons
 """)
 
-mode = int(input("Select a mode: "))
+while True:
+    mode = int(input("Select a mode: "))
+    if mode == 0:
+        exit()
+    elif mode not in [1, 2]:
+        print("Not a valid mode.")
+    else:
+        break
+
 print(mode)
