@@ -1,4 +1,16 @@
 import listmode
+import os
+
+while True:
+    srb2dir = input("Enter your SRB2 directory path: ")
+    
+    exe_path = os.path.join(srb2dir, "srb2win.exe")
+    
+    if os.path.exists(exe_path):
+        print("Valid SRB2 directory found\n")
+        break
+    else:
+        print("'srb2win.exe' not found in that folder. Please try again.")
 
 print("""
 =========================
@@ -6,7 +18,7 @@ print("""
 =      SONIC  ROBO      =
 =        BLAST 2        =
 =      Mod Profile      =
-=        Manager v0.5.0 =
+=        Manager v0.6.0 =
 =========================
 
 Modes:
