@@ -1,9 +1,9 @@
 import os
 
-def list_files():
-    print("\n--- Listing all mod files --- ---")
+def list_files(target_dir):
+    print(f"\n--- Listing all mod files ---")
     
-    for root, dirs, files in os.walk("."):
+    for root, dirs, files in os.walk(target_dir):
         for file in files:
             if file.endswith((".soc", ".wad", ".pk3", ".lua")):
                 path = os.path.join(root, file)
