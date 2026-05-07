@@ -39,6 +39,6 @@ while True:
 print(mode)
 
 if mode == 1:
-    listmode.list_files()
+    listmode.list_files(srb2dir)
 elif mode == 2:
     print("Mode 2 not yet implemented.")
